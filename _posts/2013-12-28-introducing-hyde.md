@@ -12,3 +12,10 @@ Check out my [DINO-SAM](https://colab.research.google.com/drive/1b6gJnGg-7yH4wZh
   <source src="/_res/out.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<video controls>
+  <source src="out.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+![lfn](../_res/lfn.jpg)
