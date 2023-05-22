@@ -9,7 +9,7 @@ DINO-SAM allows you to enter any classifiable object in the picture and leverage
 Check out my [DINO-SAM](https://colab.research.google.com/drive/1b6gJnGg-7yH4wZh5AcuwrMhTszJLADMU#scrollTo=9WsX4OaqdGYU) project in google colab!
 
 <video controls>
-  <source src="/_res/out.mp4" type="video/mp4">
+  <source src="/assets/out.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -18,4 +18,5 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-![lfn](../_res/lfn.jpg)
+![lfn](../assets/lfn.jpg)
+![lfn](/assets/lfn.jpg)
