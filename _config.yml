@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Casey Knox
 tagline:          'Portfolio'
 description:      'An expert in real world sensor integration and computer vision'
-baseurl:          /
-url:              http://caseyknox.github.io
+baseurl:          '/'
+url:              'http://caseyknox.github.io'
 
 author:
   name:           'Casey Knox'
